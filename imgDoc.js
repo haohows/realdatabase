@@ -14,6 +14,9 @@ const imgdata = [
     {
         file: "dog.jpg",
     },
+    {
+        file: "sasa.jpg",
+    },
 ]
 
 window.getImgDoc = () => {
