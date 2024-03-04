@@ -14,6 +14,11 @@ const imgdata = [
         file: "cat.jpg",
 
     },
+    {
+
+        file: "cat2.png",
+
+    },
 ]
 
 window.getImgDoc = () => {
