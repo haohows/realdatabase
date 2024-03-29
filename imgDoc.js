@@ -4,6 +4,7 @@ const imgdata = [
     { file: "lecturer.png" },
     { file: "parkbg.png" },
     { file: "sys.png" },
+    { file: "fullbg.jpg" },
 ]
 
 window.getImgDoc = () => {
