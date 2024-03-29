@@ -1,9 +1,9 @@
 const imgdata = [
-    { file: "engineer.jpg" },
-    { file: "guidedtour.jpg" },
-    { file: "lecturer.jpg" },
-    { file: "parkbg.jpg" },
-    { file: "sys.jpg" },
+    { file: "engineer.png" },
+    { file: "guidedtour.png" },
+    { file: "lecturer.png" },
+    { file: "parkbg.png" },
+    { file: "sys.png" },
 ]
 
 window.getImgDoc = () => {
