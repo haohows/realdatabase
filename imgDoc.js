@@ -1,5 +1,5 @@
 const imgdata = [
-    { file: "pkc.jpg" },
+    { file: "sasa.jpg" },
 ]
 
 window.getImgDoc = () => {
