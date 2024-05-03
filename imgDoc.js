@@ -1,4 +1,5 @@
 const imgdata = [
+    { file: "avatar.webp" },
     { file: "engineer.png" },
     { file: "guidedtour.png" },
     { file: "lecturer.png" },
